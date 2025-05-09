@@ -1,0 +1,7 @@
+[application]
+name = "docsite"
+
+[bundle]
+identifier = "com.dioxuslabs"
+publisher = "DioxusLabs"
+resources = ["./assets/main.css"]
