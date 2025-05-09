@@ -1,0 +1,9 @@
+[package]
+name = "shared_views"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+dioxus = { workspace = true, features = ["router"] }
+ui = { workspace = true }
+
